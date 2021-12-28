@@ -1,0 +1,35 @@
+[2021-12-28 08:03:42.627] [exthost] [info] Extension host with pid 6704 started
+[2021-12-28 08:03:42.628] [exthost] [info] Skipping acquiring lock for /home/mauros/Documentos/docker-projects/python/~/root/User/workspaceStorage/4e4c7c781243285d82a93f0d88aceb65.
+[2021-12-28 08:03:42.859] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-28 08:03:43.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-28 08:03:43.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2021-12-28 08:03:44.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-28 08:03:44.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-28 08:03:44.541] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: true, activationEvent: '*'
+[2021-12-28 08:03:48.239] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-28 08:03:48.812] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-28 08:04:12.608] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2021-12-28 08:04:12.699] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2021-12-28 08:04:12.843] [exthost] [info] Not activating extension 'p1c2u.docker-compose': Timed out while searching for 'workspaceContains' pattern **/docker-compose.yml
+[2021-12-28 08:04:12.843] [exthost] [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+[2021-12-28 08:04:13.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:04:13.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:04:13.331] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:04:14.353] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:04:14.540] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:04:14.601] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-28 08:04:15.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-28 08:04:30.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-28 08:04:30.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-28 08:04:31.288] [exthost] [info] Eager extensions activated
+[2021-12-28 08:18:24.104] [exthost] [info] ExtensionService#_doActivateExtension evgeniypeshkov.syntax-highlighter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:18:24.218] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:18:24.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-28 08:18:24.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-28 08:18:24.826] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-12-28 08:20:25.392] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2021-12-28 08:20:25.428] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:20:25.770] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:20:26.714] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:26:26.297] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-28 08:26:26.639] [exthost] [info] Extension host with pid 6704 exiting with code 0

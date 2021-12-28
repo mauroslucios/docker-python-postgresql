@@ -573,6 +573,10 @@
                         "label": "E&&xtensões"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "Te&&star"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -596,8 +600,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Quebra De Texto",
-                        "checked": true
+                        "label": "&&Quebra De Texto"
                     },
                     {
                         "id": "editor.action.toggleMinimap",

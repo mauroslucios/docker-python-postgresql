@@ -1,0 +1,20 @@
+[2021-12-28 08:03:43.773] [sharedprocess] [info] Starting worker process with pid 6780 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-28 08:20:07.999] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-12-28 08:20:10.058] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-28 08:20:10.059] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-28 08:20:10.059] [sharedprocess] [info] Extension is already requested to install ms-python.vscode-pylance
+[2021-12-28 08:20:13.694] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mauros/Documentos/docker-projects/python/~/root/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-28 08:20:13.715] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/mauros/Documentos/docker-projects/python/~/root/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-28 08:20:15.312] [sharedprocess] [info] Extracted extension to /home/mauros/.vscode/extensions/.dcdbd053-f4f5-49c7-b776-2d00a8ef729f: ms-toolsai.jupyter
+[2021-12-28 08:20:15.367] [sharedprocess] [info] Renamed to /home/mauros/.vscode/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-28 08:20:15.370] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-28 08:20:17.466] [sharedprocess] [info] Extracted extension to /home/mauros/.vscode/extensions/.306c4d3f-bc86-405c-be56-d6afff856e9b: ms-python.python
+[2021-12-28 08:20:17.572] [sharedprocess] [info] Renamed to /home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655
+[2021-12-28 08:20:17.580] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-12-28 08:20:20.754] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/mauros/Documentos/docker-projects/python/~/root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.2
+[2021-12-28 08:20:24.670] [sharedprocess] [info] Extracted extension to /home/mauros/.vscode/extensions/.e6a8935f-a520-4735-9ad8-60b0987ccc6c: ms-python.vscode-pylance
+[2021-12-28 08:20:24.767] [sharedprocess] [info] Renamed to /home/mauros/.vscode/extensions/ms-python.vscode-pylance-2021.12.2
+[2021-12-28 08:20:24.769] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-28 08:20:24.776] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-12-28 08:20:24.777] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-12-28 08:20:24.777] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

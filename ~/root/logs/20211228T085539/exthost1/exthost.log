@@ -1,0 +1,43 @@
+[2021-12-28 08:55:44.424] [exthost] [info] Extension host with pid 12603 started
+[2021-12-28 08:55:44.424] [exthost] [info] Skipping acquiring lock for /home/mauros/Documentos/docker-projects/python/~/root/User/workspaceStorage/4e4c7c781243285d82a93f0d88aceb65.
+[2021-12-28 08:55:44.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-28 08:55:44.815] [exthost] [info] ExtensionService#_doActivateExtension evgeniypeshkov.syntax-highlighter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:55:45.208] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-28 08:55:45.629] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:55:45.870] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-28 08:55:45.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-28 08:55:45.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-28 08:55:46.005] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: true, activationEvent: '*'
+[2021-12-28 08:55:46.175] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-28 08:55:46.206] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-28 08:55:47.603] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2021-12-28 08:55:47.623] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2021-12-28 08:55:48.984] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-28 08:55:49.487] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: VisualStudioExptTeam.vscodeintellicode
+[2021-12-28 08:55:49.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-28 08:55:52.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-28 08:55:52.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-28 08:55:52.582] [exthost] [info] Eager extensions activated
+[2021-12-28 08:55:52.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:55:52.693] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:55:52.707] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:55:53.569] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:55:53.698] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-28 08:59:46.170] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-28 08:59:46.170] [exthost] [error] Canceled: Canceled
+    at S.makeCancelError (/home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+    at S.handleFailedRequest (/home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+    at /home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+    at o.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2021-12-28 09:02:47.166] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-28 09:03:19.737] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-28 09:03:19.737] [exthost] [error] Canceled: Canceled
+    at S.makeCancelError (/home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159824)
+    at S.handleFailedRequest (/home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:159675)
+    at /home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:24:120017
+    at o.provideHover (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:90908)
+[2021-12-28 09:03:56.219] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-28 09:03:56.219] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+    at /home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:257359
+    at p (/home/mauros/.vscode/extensions/ms-python.python-2021.12.1559732655/out/client/extension.js:67:262355)
+    at z.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:101516)

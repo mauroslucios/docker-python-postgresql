@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wk0rod8b$nj9)zq_n%%k1)m(_mn(gov=ys^dhp=f!d*+3^3b12
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -74,10 +74,20 @@ WSGI_APPLICATION = 'projectexample.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
+    #'default': {
+     #   'ENGINE': 'django.db.backends.sqlite3',
+      #  'NAME': BASE_DIR / 'db.sqlite3',
+    #}
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'polls',
+        'USER': 'postgres',
+        'PASSWORD': 'Postgres2021!',
+        'HOST': '172.18.0.2',
+        'PORT': '5432',
     }
+
+
 }
 
 
