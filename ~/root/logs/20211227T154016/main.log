@@ -1,0 +1,31 @@
+[2021-12-27 15:40:20.945] [main] [info] update#setState idle
+[2021-12-27 15:40:22.337] [main] [info] ExtensionHostStarterWorker created
+[2021-12-27 15:40:37.170] [main] [info] Starting extension host with pid 37589 (fork() took 17 ms).
+[2021-12-27 15:40:50.948] [main] [info] update#setState checking for updates
+[2021-12-27 15:40:51.170] [main] [info] update#setState idle
+[2021-12-27 15:40:59.276] [main] [info] Enabling inspect port on extension host with pid 37589.
+[2021-12-27 16:40:51.004] [main] [info] update#setState checking for updates
+[2021-12-27 16:40:52.507] [main] [info] update#setState idle
+[2021-12-27 17:40:51.104] [main] [info] update#setState checking for updates
+[2021-12-27 17:40:52.032] [main] [info] update#setState idle
+[2021-12-27 18:18:34.633] [main] [info] Extension host with pid 37589 exited with code: 0, signal: null.
+[2021-12-27 18:18:36.344] [main] [info] Starting extension host with pid 48814 (fork() took 14 ms).
+[2021-12-27 18:40:51.198] [main] [info] update#setState checking for updates
+[2021-12-27 18:40:52.555] [main] [info] update#setState idle
+[2021-12-27 19:22:27.873] [main] [info] Starting extension host with pid 55388 (fork() took 26 ms).
+[2021-12-27 19:23:05.209] [main] [info] Extension host with pid 55388 exited with code: 0, signal: null.
+[2021-12-27 19:23:07.001] [main] [info] Starting extension host with pid 55543 (fork() took 18 ms).
+[2021-12-27 19:25:11.643] [main] [info] Extension host with pid 55543 exited with code: 0, signal: null.
+[2021-12-27 19:40:51.316] [main] [info] update#setState checking for updates
+[2021-12-27 19:40:53.399] [main] [info] update#setState idle
+[2021-12-27 20:29:38.753] [main] [info] Starting extension host with pid 57832 (fork() took 12 ms).
+[2021-12-27 20:30:15.162] [main] [info] Extension host with pid 57832 exited with code: 0, signal: null.
+[2021-12-27 20:30:16.655] [main] [info] Starting extension host with pid 58011 (fork() took 20 ms).
+[2021-12-27 20:30:48.280] [main] [info] Extension host with pid 58011 exited with code: 0, signal: null.
+[2021-12-27 20:40:51.320] [main] [info] update#setState checking for updates
+[2021-12-27 20:40:51.326] [main] [error] Error: net::ERR_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-12-27 20:40:51.327] [main] [info] update#setState idle
+[2021-12-27 20:55:23.294] [main] [info] Waiting for extension host with pid 48814 to exit.
+[2021-12-27 20:55:23.369] [main] [info] Extension host with pid 48814 exited with code: 0, signal: null.

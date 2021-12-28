@@ -1,0 +1,37 @@
+[2021-12-27 19:22:30.269] [exthost] [info] Extension host with pid 55388 started
+[2021-12-27 19:22:30.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-27 19:22:30.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-27 19:22:30.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-27 19:22:30.554] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: true, activationEvent: '*'
+[2021-12-27 19:22:30.895] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-27 19:22:30.993] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-27 19:22:32.342] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2021-12-27 19:22:32.444] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2021-12-27 19:22:32.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-27 19:22:40.441] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:22:40.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:22:40.514] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:22:41.314] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:22:41.486] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:23:05.126] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-27 19:23:05.150] [exthost] [info] Extension host with pid 55388 exiting with code 0
+[2021-12-27 19:23:08.602] [exthost] [info] Extension host with pid 55543 started
+[2021-12-27 19:23:08.619] [exthost] [info] Skipping acquiring lock for /home/mauros/Documentos/docker-projects/python/~/root/User/workspaceStorage/4e4c7c781243285d82a93f0d88aceb65.
+[2021-12-27 19:23:09.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-27 19:23:09.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-27 19:23:09.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-27 19:23:09.125] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs, startup: true, activationEvent: '*'
+[2021-12-27 19:23:09.165] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2021-12-27 19:23:09.181] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-27 19:23:09.712] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: true, activationEvent: '*'
+[2021-12-27 19:23:09.763] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2021-12-27 19:23:10.030] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+[2021-12-27 19:23:10.561] [exthost] [info] ExtensionService#_doActivateExtension p1c2u.docker-compose, startup: true, activationEvent: 'workspaceContains:**/docker-compose.yml'
+[2021-12-27 19:23:11.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-27 19:23:18.869] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:23:18.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:23:18.893] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:23:19.559] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:23:19.821] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-27 19:25:11.537] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-27 19:25:11.617] [exthost] [info] Extension host with pid 55543 exiting with code 0

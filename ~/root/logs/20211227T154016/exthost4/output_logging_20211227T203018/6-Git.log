@@ -1,0 +1,35 @@
+Validating found git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/mauros/Documentos/docker-projects/python' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mauros/Documentos/docker-projects/python' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/Dockerfile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/db.sqlite3' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/docker-compose.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/manage.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/projectexample' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/requirements.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mauros/Documentos/docker-projects/python/~' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
