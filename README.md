@@ -3,9 +3,7 @@ CONTAINER PYTHON COM POSTGRESQL E ADMINER
 
 
 
-Não sei programar em python, mas algumas vezes fui obrigado a criar ambientes de “dev” nas empresas em que trabalhei.
-
-Mas, vamos criar um ambiente dockerizado para utilização do python com postgresql.
+Vamos criar um ambiente dockerizado para utilização do python com postgresql.
 
 Também vamos usar o adminer como SGBD para o postgresql.
 
