@@ -1,7 +1,0 @@
-[2021-12-27 15:40:43.713] [sharedprocess] [info] Starting worker process with pid 37683 (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-27 18:18:34.661] [sharedprocess] [info] Worker process with pid 37683 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-27 18:18:36.393] [sharedprocess] [info] Starting worker process with pid 48816 (type: watcherServiceParcelSharedProcess, window: 1).
-[2021-12-27 19:23:07.230] [sharedprocess] [info] Starting worker process with pid 55551 (type: watcherServiceParcelSharedProcess, window: 3).
-[2021-12-27 19:25:11.552] [sharedprocess] [info] Worker process with pid 55551 terminated normally (type: watcherServiceParcelSharedProcess, window: 3).
-[2021-12-27 20:30:16.834] [sharedprocess] [info] Starting worker process with pid 58019 (type: watcherServiceParcelSharedProcess, window: 4).
-[2021-12-27 20:30:42.420] [sharedprocess] [info] Worker process with pid 58019 terminated normally (type: watcherServiceParcelSharedProcess, window: 4).
