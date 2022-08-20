@@ -97,7 +97,10 @@ Feito isto vamos rodar os comandos necessários para “build” e “up” dos 
 
 → docker-compose run web django-admin startproject nome-projeto .
 
+→ docker-compose run web python manage.py migrate
+
 → docker-compose up
+
 
 
 
