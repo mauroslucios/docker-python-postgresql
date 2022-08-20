@@ -95,7 +95,7 @@ Crie um arquivo com nome de “requirements.txt” e coloque as seguintes config
 
 Feito isto vamos rodar os comandos necessários para “build” e “up” dos containers.
 
-→ docker-compose run web django-admin startproject <nome-projeto> .
+→ docker-compose run web django-admin startproject nome-projeto .
 
 → docker-compose up
 
